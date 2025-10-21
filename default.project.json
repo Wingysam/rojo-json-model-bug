@@ -1,0 +1,7 @@
+{
+  "name": "rojo-json-model-bug",
+  "tree": {
+    "$className": "DataModel",
+    "$path": "src"
+  }
+}

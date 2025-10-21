@@ -1,0 +1,10 @@
+{
+  "ClassName": "Part",
+  "Properties": {
+    "CustomPhysicalProperties": {
+      "PhysicalProperties": {
+        "density": 0.01
+      }
+    }
+  }
+}
