@@ -3,7 +3,11 @@
   "Properties": {
     "CustomPhysicalProperties": {
       "PhysicalProperties": {
-        "density": 0.01
+        "density": 0.01,
+        "elasticity": 0.5,
+        "elasticityWeight": 1,
+        "friction": 0.3,
+        "frictionWeight": 1
       }
     }
   }
